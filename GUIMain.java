@@ -21,7 +21,7 @@ public class GUIMain {
         frame.setLocationRelativeTo(null);
 
         JLabel background = new JLabel(
-                new ImageIcon("C:\\Users\\Gezim\\Desktop\\VS\\Tip Calculator\\src\\tip\\dine.png"));
+                new ImageIcon("filepath"));
         background.setVisible(true);
         background.setLayout(null);
         background.setSize(500, 500);
